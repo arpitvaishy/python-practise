@@ -11,3 +11,5 @@ class Google:
     
 a = Google("CEO", "Sundar Pichai", "10,000,000 $", "1.3 Billion $")
 a.get_info()
+b = Google("Senior VP", "Philip Schindler", "47 Million $", "111 Million $" )
+b.get_info()
