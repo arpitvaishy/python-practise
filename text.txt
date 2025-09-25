@@ -1,2 +1,3 @@
 hi, my name is Arpit Vaishy.
 I am from Raebareli, Uttar Pradesh.
+I am a pythonista and I love coding in Python.
